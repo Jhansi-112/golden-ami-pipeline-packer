@@ -1,0 +1,4 @@
+*.pem
+packer-manifest.json
+crash.log
+.packer.d/
