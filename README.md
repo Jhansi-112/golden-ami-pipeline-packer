@@ -16,3 +16,6 @@ Learned in a hands-on DevOps training course. The practice labs are based on pub
 
 ## CI/CD
 GitHub Actions pipeline: in progress (MDP-25).
+
+## CI/CD
+GitHub Actions pipeline: in progress (MDP-25).
