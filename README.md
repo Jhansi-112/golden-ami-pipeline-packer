@@ -13,3 +13,6 @@ Packer, AWS (EC2, AMI, IAM), Linux, Git, GitHub, VS Code
 
 ## Credit
 Learned in a hands-on DevOps training course. The practice labs are based on public HashiCorp Packer tutorials. The implementation and changes in this repo are my own.
+
+## CI/CD
+GitHub Actions pipeline: in progress (MDP-25).
